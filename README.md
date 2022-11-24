@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kripa2gib
+- 👋 Hi, I’m Kripa
 - 👀 I’m interested in Dance, Coding, Tech.
 - 🌱 I’m currently learning HTML,CSS, Java, Python
 - 💞️ I’m looking to collaborate on fun projects!
